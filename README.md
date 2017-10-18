@@ -1,2 +1,2 @@
-# obracun_zarada
+# Obracun_zarada
 Aplikacija za obracun plata
